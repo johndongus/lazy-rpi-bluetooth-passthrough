@@ -7,6 +7,8 @@ Please refer to the article above for more indepth instructions
 
 ###   
 **Installation (RPI):**
+Append: `usbhid.mousepoll=8` to: /boot/cmdline.txt
+*This setting must be played around with i came to find out*
 
 ```
 wget https://github.com/quangthanh010290/keyboard_mouse_emulate_on_raspberry/blob/master/setup.sh
