@@ -3,6 +3,7 @@
 Very lazy implementation of mouse interception using a raspberryPI with a bluetooth module.
 
 This is a **slightly** modified version of: [https://thanhle.me/emulate-bluetooth-mouse-with-raspberry-pi/](https://thanhle.me/emulate-bluetooth-mouse-with-raspberry-pi/)
+Please refer to the article above for more indepth instructions 
 
 ###   
 **Installation (RPI):**
